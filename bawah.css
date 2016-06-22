@@ -56,6 +56,10 @@
     margin-top: 35px;
 }
 
+.quickedit{
+display:none;
+}
+
 /* Arlina Main Navigation */
 #navigation-hype{background:#fff;font-size:0;white-space:nowrap;padding:0;margin:0 auto;float:right}
 #navigation-hype ul.menus{height:auto;overflow:hidden;position:absolute;z-index:99;display:none}
